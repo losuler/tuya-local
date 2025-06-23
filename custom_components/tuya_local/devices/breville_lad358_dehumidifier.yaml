@@ -2,8 +2,7 @@ name: Dehumidifier
 products:
   - id: lcjqatjseirq4msl
     manufacturer: Breville
-    model: All Climate
-    model_id: LAD358
+    model: LAD358
 entities:
   - entity: humidifier
     class: dehumidifier
